@@ -1,0 +1,14 @@
+.todolist {
+  background-color: #222;
+  padding: 10px 20px;
+  opacity: 0.9;
+  color: white;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
